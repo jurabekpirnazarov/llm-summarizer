@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+transformers
+accelerate
+peft
+datasets
+bitsandbytes # for QLoRA 4/8‑bit
+scikit-learn
+rouge-score
+bert-score
+pydantic
+python-dotenv
